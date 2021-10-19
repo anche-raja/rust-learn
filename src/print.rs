@@ -3,4 +3,5 @@ pub fn run() {
 
     println!("Hello {}", "Raja");
     println!("Hello {}, How is {}", "Raja", "Suma");
+    println!("Hello {}, How is {}", "Raja", "Suma");
 }
